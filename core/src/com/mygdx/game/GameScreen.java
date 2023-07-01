@@ -39,7 +39,7 @@ public class GameScreen implements Screen {
         World world = new World(new Vector2(0, -10), true);
         Box2DDebugRenderer debugRenderer = new Box2DDebugRenderer();
 
-
+// testing
     }
     @Override
     public void render(float delta) {
